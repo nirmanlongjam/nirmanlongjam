@@ -18,6 +18,10 @@ Here are few interesting reads i found: (imagine the no. of hours spent finding 
 <br>
 <b>Math foundations:</b> Jon Krohn's excellent Udemy course here</a>. Also follow his <a href="https://github.com/jonkrohn/ML-foundations"> Github site.</a>
 <br>
+<b>Prof. Andreas Geiger's classes on CV & DL:</b>
+<a href="https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_"> Computer Vision — Andreas Geiger, 2021</a>
+<br>
+<a href="https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD">Deep Learning — Andreas Geiger, 2020/21</a>
 
 
 <!---
