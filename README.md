@@ -4,18 +4,20 @@
 - 💞️ I’m looking to collaborate on Text Retrieval from imaged documents.
 - 📫 How to reach me ... ^_^ soon !
 
-Being a perfectionist, i do digress a lot and usually get myself lost among several books. This <a href="https://en.wikipedia.org/wiki/Flow_(psychology)">flow</a> wastes much valuable time.
+Being a perfectionist, i do digress a lot and usually get myself lost among several books. This <a href="https://en.wikipedia.org/wiki/Flow_(psychology)">flow</a> wastes my much valuable time.
 
 Here are few interesting reads i found: (imagine the no. of hours spent finding those ^_^)
 
-<b>Main textbook on Computer Vision:</b> <a href="https://szeliski.org/Book/">Computer Vision: Algorithms and Applications, 2nd ed.</a>
-
-<b>Tools:</b> Python, Pytorch and OpenCV
+<b>Main textbook on Computer Vision:</b> <a href="https://szeliski.org/Book/">Computer Vision: Algorithms and Applications, Richard Szeliski, 2nd ed.</a>
+<br>
+<b>Tools:</b> Python, PyTorch, & OpenCV
 
 <b>References:</b>
+<br>
 <b>Deep Learning textbook:</b> <a href="https://www.deeplearningbook.org/">Deep Learning, Goodfellow et. al.</a>
-<b>Math foundations</b>
-
+<br>
+<b>Math foundations:</b> Jon Krohn's excellent Udemy course here</a>. Also follow his <a href="https://github.com/jonkrohn/ML-foundations"> Github site.</a>
+<br>
 
 
 <!---
