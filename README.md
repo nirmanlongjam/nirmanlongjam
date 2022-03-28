@@ -16,7 +16,7 @@ Here are few interesting reads i found: (imagine the no. of hours spent finding 
 <br>
 <b>Deep Learning textbook:</b> <a href="https://www.deeplearningbook.org/">Deep Learning, Goodfellow et. al.</a>
 <br>
-<b>Math foundations:</b> Jon Krohn's excellent Udemy course here</a>. Also follow his <a href="https://github.com/jonkrohn/ML-foundations"> Github site.</a>
+<b>Math foundations:</b> Jon Krohn's excellent Udemy course <a href="https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/">here</a>. Also follow his <a href="https://github.com/jonkrohn/ML-foundations"> Github site.</a>
 <br>
 <b>Prof. Andreas Geiger's classes on CV & DL (follows above textbooks):</b>
 <br>
